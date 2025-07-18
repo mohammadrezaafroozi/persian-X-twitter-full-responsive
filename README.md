@@ -1,7 +1,7 @@
 full responsive twitter simulator with Nextjs & Tailwindcss
--full responsive
--Parallel Routes modal, 
--Upload & edit photos, profile section
+- full responsive
+- Parallel Routes modal, 
+- Upload & edit photos, profile section
 
 
 [online demo](https://persian-x-twitter-full-responsive-yois-r7en9evkp.vercel.app/)
