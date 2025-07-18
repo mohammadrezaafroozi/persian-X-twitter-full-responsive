@@ -1,17 +1,18 @@
-## Getting Started
+full responsive twitter simulator with Nextjs & Tailwindcss
+full responsive
+Parallel Routes modal, Upload & edit photos, profile section
+[online demo](https://persian-x-twitter-full-responsive-yois-r7en9evkp.vercel.app/)
 
-First, run the development server:
+- Developed by MohammadReza Afroozi
+- Created - 2025
+- 🤖 Technologies Used - [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss)](https://skillicons.dev)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🤖🤖♀️ Role - Frontend
+- Master : Parsa - Ghorbanian
+- How to reach me : with my
+[instagram](https://www.instagram.com/afroozi_dev?igsh=MWNvODk2dGwwY29o) and
+[linkedin](https://www.linkedin.com/in/mohammad-reza-afroozi)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
